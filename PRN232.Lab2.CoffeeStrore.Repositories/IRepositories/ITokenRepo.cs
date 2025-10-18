@@ -1,0 +1,16 @@
+﻿using PRN232.Lab2.CoffeeStore.Data.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PRN232.Lab2.CoffeeStrore.Repositories.IRepositories
+{
+    public interface ITokenRepo : IGenericRepo<Token>
+    {
+        public Task<Token?> GetTokenWithUser(string tokenValue, string type);
+        public Task<Token?> GetTokenByUserIdAsync(int userId);
+        public Task<Token?> GetTokenByValueAsync(string tokenValue);
+    }
+}

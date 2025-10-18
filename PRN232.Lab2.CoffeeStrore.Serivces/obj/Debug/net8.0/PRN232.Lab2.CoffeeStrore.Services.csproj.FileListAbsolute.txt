@@ -1,0 +1,17 @@
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.csproj.AssemblyReference.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.AssemblyInfoInputs.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.AssemblyInfo.cs
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.csproj.CoreCompileInputs.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.deps.json
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.L.E0E6B1DC.Up2Date
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\refint\PRN232.Lab2.CoffeeStrore.Services.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Services.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Application\obj\Debug\net8.0\ref\PRN232.Lab2.CoffeeStrore.Services.dll

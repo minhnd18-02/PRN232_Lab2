@@ -1,0 +1,15 @@
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.csproj.AssemblyReference.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.AssemblyInfoInputs.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.AssemblyInfo.cs
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.csproj.CoreCompileInputs.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.deps.json
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\bin\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.L.A2A3DAF1.Up2Date
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\refint\PRN232.Lab2.CoffeeStrore.Repositories.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\PRN232.Lab2.CoffeeStrore.Repositories.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStrore.Infracstructure\obj\Debug\net8.0\ref\PRN232.Lab2.CoffeeStrore.Repositories.dll

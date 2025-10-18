@@ -1,0 +1,14 @@
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.deps.json
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.runtimeconfig.json
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.csproj.AssemblyReference.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.AssemblyInfoInputs.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.AssemblyInfo.cs
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.csproj.CoreCompileInputs.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\refint\PRN232.Lab2.CoffeeStore.Data.dll
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.pdb
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Data.genruntimeconfig.cache
+D:\Documents\PRN232.Lab2\PRN232.Lab2.CoffeeStore.Data\obj\Debug\net8.0\ref\PRN232.Lab2.CoffeeStore.Data.dll
