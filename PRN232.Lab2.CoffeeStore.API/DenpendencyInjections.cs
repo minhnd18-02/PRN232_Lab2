@@ -1,5 +1,6 @@
-﻿using PRN232.Lab2.CoffeeStrore.Services.Implementations;
-using PRN232.Lab2.CoffeeStrore.Services.Interfaces;
+﻿
+using PRN232.Lab2.CoffeeStore.Services.IServices;
+using PRN232.Lab2.CoffeeStore.Services.Service;
 
 namespace PRN232.Lab2.CoffeeStore.API
 {
@@ -8,6 +9,8 @@ namespace PRN232.Lab2.CoffeeStore.API
         public static IServiceCollection AddWebAPIService(this IServiceCollection services)
         {
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<ITokenService, TokenService>();
+
             return services;
         }
     }

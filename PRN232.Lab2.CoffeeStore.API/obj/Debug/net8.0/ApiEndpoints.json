@@ -1,15 +1,15 @@
 [
   {
-    "ContainingType": "PRN232.Lab2.CoffeeStore.API.Controllers.UserController",
+    "ContainingType": "PRN232.Lab2.CoffeeStore.API.Controllers.AuthController",
     "Method": "LoginAsync",
-    "RelativePath": "api/User/login",
+    "RelativePath": "api/Auth/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "loginObject",
-        "Type": "PRN232.Lab2.CoffeeStrore.Services.ViewModels.LoginUser",
+        "Name": "loginRequest",
+        "Type": "PRN232.Lab2.CoffeeStore.Services.ViewModels.Auths.LoginRequest",
         "IsRequired": true
       }
     ],

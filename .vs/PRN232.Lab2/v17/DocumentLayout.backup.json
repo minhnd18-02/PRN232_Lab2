@@ -1,54 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN232.Lab2\\",
+  "WorkspaceRootPath": "D:\\Repo\\PRN232_Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestore.api\\denpendencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\denpendencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestore.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestrore.application\\serviceresponse\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|solutionrelative:prn232.lab2.coffeestrore.application\\serviceresponse\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestrore.application\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|solutionrelative:prn232.lab2.coffeestrore.application\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestrore.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|solutionrelative:prn232.lab2.coffeestrore.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9875F4B8-6A18-4857-9772-1A030519F4EC}|PRN232.Lab2.CoffeeStrore.Infracstructure\\PRN232.Lab2.CoffeeStrore.Repositories.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestrore.infracstructure\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9875F4B8-6A18-4857-9772-1A030519F4EC}|PRN232.Lab2.CoffeeStrore.Infracstructure\\PRN232.Lab2.CoffeeStrore.Repositories.csproj|solutionrelative:prn232.lab2.coffeestrore.infracstructure\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9875F4B8-6A18-4857-9772-1A030519F4EC}|PRN232.Lab2.CoffeeStrore.Infracstructure\\PRN232.Lab2.CoffeeStrore.Repositories.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestrore.infracstructure\\irepositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9875F4B8-6A18-4857-9772-1A030519F4EC}|PRN232.Lab2.CoffeeStrore.Infracstructure\\PRN232.Lab2.CoffeeStrore.Repositories.csproj|solutionrelative:prn232.lab2.coffeestrore.infracstructure\\irepositories\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestrore.application\\viewmodels\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C3C241-0A28-47BF-82D9-ED8096874FF4}|PRN232.Lab2.CoffeeStrore.Application\\PRN232.Lab2.CoffeeStrore.Services.csproj|solutionrelative:prn232.lab2.coffeestrore.application\\viewmodels\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9875F4B8-6A18-4857-9772-1A030519F4EC}|PRN232.Lab2.CoffeeStrore.Infracstructure\\PRN232.Lab2.CoffeeStrore.Repositories.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestrore.infracstructure\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9875F4B8-6A18-4857-9772-1A030519F4EC}|PRN232.Lab2.CoffeeStrore.Infracstructure\\PRN232.Lab2.CoffeeStrore.Repositories.csproj|solutionrelative:prn232.lab2.coffeestrore.infracstructure\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9416EC-DED5-47E6-B08C-EB6B97ED29A9}|PRN232.Lab2.CoffeeStore.Data\\PRN232.Lab2.CoffeeStore.Data.csproj|d:\\documents\\prn232.lab2\\prn232.lab2.coffeestore.data\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9416EC-DED5-47E6-B08C-EB6B97ED29A9}|PRN232.Lab2.CoffeeStore.Data\\PRN232.Lab2.CoffeeStore.Data.csproj|solutionrelative:prn232.lab2.coffeestore.data\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\appsettings.json",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\appsettings.json",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\appsettings.json",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-18T07:50:59.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DenpendencyInjections.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\DenpendencyInjections.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\DenpendencyInjections.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\DenpendencyInjections.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\DenpendencyInjections.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:46:43.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowCEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:38:04.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\ServiceResponse\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStrore.Application\\ServiceResponse\\TokenResponse.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\ServiceResponse\\TokenResponse.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStrore.Application\\ServiceResponse\\TokenResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:37:01.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\Implementations\\UserService.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStrore.Application\\Implementations\\UserService.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\Implementations\\UserService.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStrore.Application\\Implementations\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:16:52.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\ViewModels\\LoginUser.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStrore.Application\\ViewModels\\LoginUser.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\ViewModels\\LoginUser.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStrore.Application\\ViewModels\\LoginUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:15:16.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStrore.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStrore.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:12:05.563Z",
+              "WhenOpened": "2025-11-05T19:36:18.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\Program.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\Program.cs",
               "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.API\\Program.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\Program.cs",
               "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T07:01:36.883Z",
+              "WhenOpened": "2025-11-05T19:31:10.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\UserRepo.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\UserRepo.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\UserRepo.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\UserRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T06:34:10.273Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T19:27:50.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserRepo.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Infracstructure\\IRepositories\\IUserRepo.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStrore.Infracstructure\\IRepositories\\IUserRepo.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Infracstructure\\IRepositories\\IUserRepo.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStrore.Infracstructure\\IRepositories\\IUserRepo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T04:34:45.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Token.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.Data\\Entities\\Token.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Data\\Entities\\Token.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStore.Data\\Entities\\Token.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Data\\Entities\\Token.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T04:21:42.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryRepo.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\CategoryRepo.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\CategoryRepo.cs",
-              "ToolTip": "D:\\Documents\\PRN232.Lab2\\PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\CategoryRepo.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStrore.Infracstructure\\Repositories\\CategoryRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T04:08:32.76Z",
+              "WhenOpened": "2025-11-05T19:27:43.944Z",
               "EditorCaption": ""
             }
           ]

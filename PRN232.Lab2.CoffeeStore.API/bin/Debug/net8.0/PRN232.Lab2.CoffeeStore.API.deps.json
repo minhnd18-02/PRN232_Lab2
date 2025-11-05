@@ -9,12 +9,25 @@
       "PRN232.Lab2.CoffeeStore.API/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.21",
-          "PRN232.Lab2.CoffeeStrore.Repositories": "1.0.0",
-          "PRN232.Lab2.CoffeeStrore.Services": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.20",
+          "PRN232.Lab2.CoffeeStore.Services": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
           "PRN232.Lab2.CoffeeStore.API.dll": {}
+        }
+      },
+      "AutoMapper/15.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Options": "8.0.2",
+          "Microsoft.IdentityModel.JsonWebTokens": "8.14.0"
+        },
+        "runtime": {
+          "lib/net8.0/AutoMapper.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.1.0.0"
+          }
         }
       },
       "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.21": {
@@ -238,7 +251,7 @@
       "Microsoft.IdentityModel.Protocols.OpenIdConnect/7.1.2": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols": "7.1.2",
-          "System.IdentityModel.Tokens.Jwt": "8.14.0"
+          "System.IdentityModel.Tokens.Jwt": "7.1.2"
         },
         "runtime": {
           "lib/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {
@@ -330,15 +343,15 @@
           }
         }
       },
-      "System.IdentityModel.Tokens.Jwt/8.14.0": {
+      "System.IdentityModel.Tokens.Jwt/7.1.2": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "8.14.0",
           "Microsoft.IdentityModel.Tokens": "8.14.0"
         },
         "runtime": {
           "lib/net8.0/System.IdentityModel.Tokens.Jwt.dll": {
-            "assemblyVersion": "8.14.0.0",
-            "fileVersion": "8.14.0.60815"
+            "assemblyVersion": "7.1.2.0",
+            "fileVersion": "7.1.2.41121"
           }
         }
       },
@@ -356,25 +369,28 @@
           }
         }
       },
-      "PRN232.Lab2.CoffeeStrore.Repositories/1.0.0": {
+      "PRN232.Lab2.CoffeeStore.Repositories/1.0.0": {
         "dependencies": {
+          "AutoMapper": "15.1.0",
+          "Microsoft.EntityFrameworkCore": "8.0.20",
           "PRN232.Lab2.CoffeeStore.Data": "1.0.0"
         },
         "runtime": {
-          "PRN232.Lab2.CoffeeStrore.Repositories.dll": {
+          "PRN232.Lab2.CoffeeStore.Repositories.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "PRN232.Lab2.CoffeeStrore.Services/1.0.0": {
+      "PRN232.Lab2.CoffeeStore.Services/1.0.0": {
         "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
           "Microsoft.IdentityModel.Tokens": "8.14.0",
-          "PRN232.Lab2.CoffeeStrore.Repositories": "1.0.0",
-          "System.IdentityModel.Tokens.Jwt": "8.14.0"
+          "PRN232.Lab2.CoffeeStore.Repositories": "1.0.0",
+          "System.IdentityModel.Tokens.Jwt": "7.1.2"
         },
         "runtime": {
-          "PRN232.Lab2.CoffeeStrore.Services.dll": {
+          "PRN232.Lab2.CoffeeStore.Services.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -387,6 +403,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/15.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uJXRC0ysO+i3fuW1onh0cUmaLbEwfMWwAZ5nw2eKhYccHwDgRhSC4Qj3rNdBy4vdhnC3r4NinhhldANKNWpH1Q==",
+      "path": "automapper/15.1.0",
+      "hashPath": "automapper.15.1.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.21": {
       "type": "package",
@@ -626,24 +649,24 @@
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
     },
-    "System.IdentityModel.Tokens.Jwt/8.14.0": {
+    "System.IdentityModel.Tokens.Jwt/7.1.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EYGgN/S+HK7S6F3GaaPLFAfK0UzMrkXFyWCvXpQWFYmZln3dqtbyIO7VuTM/iIIPMzkelg8ZLlBPvMhxj6nOAA==",
-      "path": "system.identitymodel.tokens.jwt/8.14.0",
-      "hashPath": "system.identitymodel.tokens.jwt.8.14.0.nupkg.sha512"
+      "sha512": "sha512-Thhbe1peAmtSBFaV/ohtykXiZSOkx59Da44hvtWfIMFofDA3M3LaVyjstACf2rKGn4dEDR2cUpRAZ0Xs/zB+7Q==",
+      "path": "system.identitymodel.tokens.jwt/7.1.2",
+      "hashPath": "system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
     },
     "PRN232.Lab2.CoffeeStore.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "PRN232.Lab2.CoffeeStrore.Repositories/1.0.0": {
+    "PRN232.Lab2.CoffeeStore.Repositories/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "PRN232.Lab2.CoffeeStrore.Services/1.0.0": {
+    "PRN232.Lab2.CoffeeStore.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

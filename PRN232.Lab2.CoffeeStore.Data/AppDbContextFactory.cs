@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using PRN232.Lab2.CoffeeStore.Data.Data;
 
 namespace PRN232.Lab2.CoffeeStore.Data
 {
