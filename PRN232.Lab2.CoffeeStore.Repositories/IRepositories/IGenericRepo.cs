@@ -15,5 +15,6 @@ namespace PRN232.Lab2.CoffeeStore.Repositories.IRepositories
         Task RemoveAsync(T entity);
         Task UpdateAsync(T entity);
         Task<T?> FindEntityAsync(Expression<Func<T, bool>> predicate);
+        IQueryable<T> GetAllAsNoTrackingAsQueryable();
     }
 }

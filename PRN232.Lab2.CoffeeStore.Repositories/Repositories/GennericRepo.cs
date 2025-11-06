@@ -53,5 +53,10 @@ namespace PRN232.Lab2.CoffeeStore.Repositories.Repositories
         {
             return await _dbSet.FirstOrDefaultAsync(predicate);
         }
+
+        public IQueryable<T> GetAllAsNoTrackingAsQueryable()
+        {
+            return _dbSet.AsNoTracking().AsQueryable();
+        }
     }
 }

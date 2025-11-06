@@ -10,6 +10,7 @@ namespace PRN232.Lab2.CoffeeStore.API
         {
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<ITokenService, TokenService>();
+            services.AddScoped<ICategoryService, CategoryService>();
 
             return services;
         }

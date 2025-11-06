@@ -37,8 +37,9 @@ public class Program
                 (Encoding.UTF8.GetBytes(builder.Configuration["JWTSection:SecretKey"] ?? "")),
                 ValidateIssuer = true,
                 ValidateAudience = true,
-                ValidateLifetime = false,
+                ValidateLifetime = true,
                 ValidateIssuerSigningKey = true,
+                ClockSkew = TimeSpan.Zero
             };
         });
         #endregion
@@ -79,12 +80,12 @@ public class Program
                     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
         var app = builder.Build();
 
-        // Configure the HTTP request pipeline.
-        //if (app.Environment.IsDevelopment())
-        //{
-        app.UseSwagger();
+        //Configure the HTTP request pipeline.
+        if (app.Environment.IsDevelopment())
+        {
+            app.UseSwagger();
         app.UseSwaggerUI();
-        //}
+        }
 
         app.UseHttpsRedirection();
         app.UseAuthentication();

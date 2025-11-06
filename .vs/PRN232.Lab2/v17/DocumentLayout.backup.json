@@ -7,16 +7,40 @@
       "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E400E9A8-53F3-4E3D-80B9-51E41D773EE1}|PRN232.Lab2.CoffeeStore.Repositories\\PRN232.Lab2.CoffeeStore.Repositories.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.repositories\\repositories\\gennericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E400E9A8-53F3-4E3D-80B9-51E41D773EE1}|PRN232.Lab2.CoffeeStore.Repositories\\PRN232.Lab2.CoffeeStore.Repositories.csproj|solutionrelative:prn232.lab2.coffeestore.repositories\\repositories\\gennericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\mapperconfigurationsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\mapperconfigurationsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.services\\viewmodels\\categories\\querycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06993C03-0AE4-4AD4-9D0A-296DFD294E1A}|PRN232.Lab2.CoffeeStore.Services\\PRN232.Lab2.CoffeeStore.Services.csproj|solutionrelative:prn232.lab2.coffeestore.services\\viewmodels\\categories\\querycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9416EC-DED5-47E6-B08C-EB6B97ED29A9}|PRN232.Lab2.CoffeeStore.Data\\PRN232.Lab2.CoffeeStore.Data.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9416EC-DED5-47E6-B08C-EB6B97ED29A9}|PRN232.Lab2.CoffeeStore.Data\\PRN232.Lab2.CoffeeStore.Data.csproj|solutionrelative:prn232.lab2.coffeestore.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|d:\\repo\\prn232_lab2\\prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{287DFE12-FA7E-4816-94E2-38B09F7DB3AA}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +50,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
-              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\Service\\UserService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDMAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "GennericRepo.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Repositories\\Repositories\\GennericRepo.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Repositories\\Repositories\\GennericRepo.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Repositories\\Repositories\\GennericRepo.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Repositories\\Repositories\\GennericRepo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:36:18.552Z",
+              "WhenOpened": "2025-11-06T14:55:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:35:15.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\IServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\IServices\\ICategoryService.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\IServices\\ICategoryService.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:09:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapperConfigurationsProfile.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\MapperConfigurationsProfile.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\MapperConfigurationsProfile.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\MapperConfigurationsProfile.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\MapperConfigurationsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:28:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\CategoryService.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAIwOMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:02:24.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:27:43.944Z",
               "EditorCaption": ""
             },
             {
@@ -49,14 +138,40 @@
               "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\Program.cs",
               "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\Program.cs",
               "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwCQAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T19:31:10.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "QueryCategory.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\ViewModels\\Categories\\QueryCategory.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\ViewModels\\Categories\\QueryCategory.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\ViewModels\\Categories\\QueryCategory.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\ViewModels\\Categories\\QueryCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:00:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Data\\Entities\\Category.cs",
+              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Data\\Entities\\Category.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:00:40.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.API\\appsettings.json",
               "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\appsettings.json",
@@ -65,19 +180,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-05T19:27:50.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
-              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
-              "ToolTip": "D:\\Repo\\PRN232_Lab2\\PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
-              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Services\\Service\\TokenService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:27:43.944Z",
               "EditorCaption": ""
             }
           ]
